@@ -1,0 +1,5 @@
+name: "spidie"
+title: "Spidie avatar and name setup"
+description: "Set up the Spidie identity on this Muse: a chibi Spider-Man avatar generated from the bundled reference image, plus the name Spidie. Use when the user wants their Muse to look like Spidie."
+category: "Work and knowledge"
+include_in_prompt: true

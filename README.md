@@ -28,7 +28,17 @@ git clone https://github.com/Active-Learning-Kyle/spidie-avatar.git
 
 No build step, no dependencies — the PNGs are ready to use as profile pictures anywhere: GitHub, Discord, X, you name it.
 
-## Set up your own Muse
+## Easiest setup: the Spidie skill
+
+This repo is itself a Muse skill. Your friend only needs to send their Muse one message:
+
+```
+Clone https://github.com/Active-Learning-Kyle/spidie-avatar.git to ~/workspace/custom-skills/spidie, then follow its SKILL.md to set up Spidie.
+```
+
+Their Muse will generate the avatar from the bundled reference image, let them pick the version they like, and take the name Spidie. Animated variants generate automatically afterward.
+
+## Set up manually
 
 Three steps, about two minutes. Full copy-paste prompts live in [`PROMPTS.md`](PROMPTS.md):
 
