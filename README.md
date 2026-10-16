@@ -2,11 +2,11 @@
 
 A chibi Spider-Man avatar — oversized round head, black over-ear headphones, blue-and-red hoodie with hands in the pockets. Chill, cute, and ready to swing into your profile picture.
 
-![Spidie](spidie.png)
+![Spidie](spidie.webp)
 
 ## What's inside
 
-- `spidie.png` — the avatar (1600 × 1600 PNG)
+- `spidie.webp` — the avatar (1024 × 1024 WebP)
 
 ## Use it
 
