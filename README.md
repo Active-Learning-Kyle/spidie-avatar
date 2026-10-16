@@ -18,6 +18,7 @@ A chibi Spider-Man avatar pack for your [Muse](https://muse.ai) — oversized ro
 | `pose-dance.png` | Dance pose |
 | `pose-kick.png` | One-hand-in-pocket kick pose |
 | [`PROMPTS.md`](PROMPTS.md) | Copy-paste instructions to set this up on your own Muse |
+| [`STYLE.md`](STYLE.md) | Body-proportion and art-style constraints every custom character must follow |
 | [`LICENSE`](LICENSE) | MIT |
 
 ## Quick start
@@ -37,6 +38,16 @@ Clone https://github.com/Active-Learning-Kyle/spidie-avatar.git to ~/workspace/c
 ```
 
 Their Muse will generate the avatar from the bundled reference image, let them pick the version they like, and take the name Spidie. Animated variants generate automatically afterward.
+
+## Make your own character
+
+Don't want Spider-Man? Your Muse can generate a custom character in the same chibi style — same body proportions, same look, your own idea:
+
+```
+Clone https://github.com/Active-Learning-Kyle/spidie-avatar.git to ~/workspace/custom-skills/spidie, then follow its SKILL.md Mode 2 to create a custom character.
+```
+
+Just describe the character you want ("一隻粉紅色嘅小狐狸，著碎花裙" or "a robot cat in a hoodie"). The style constraints in [`STYLE.md`](STYLE.md) are automatically applied to every generation, so the result always matches the Spidie family's proportions and art style — only the character itself changes.
 
 ## Set up manually
 

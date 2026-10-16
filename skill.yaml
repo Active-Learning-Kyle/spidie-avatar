@@ -1,5 +1,5 @@
 name: "spidie"
 title: "Spidie avatar and name setup"
-description: "Set up the Spidie identity on this Muse: a chibi Spider-Man avatar generated from the bundled reference image, plus the name Spidie. Use when the user wants their Muse to look like Spidie."
+description: "Set up the Spidie identity on this Muse (chibi Spider-Man avatar from the bundled reference image, plus the name Spidie), or generate a custom character in the same chibi proportions and art style from the user's own description."
 category: "Work and knowledge"
 include_in_prompt: true
