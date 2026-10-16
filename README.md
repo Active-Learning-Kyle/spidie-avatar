@@ -11,7 +11,13 @@ A chibi Spider-Man avatar — oversized round head, black over-ear headphones, b
 
 ## Use it
 
-Download `image.png` and set it as your profile picture anywhere — GitHub, Discord, X, you name it.
+Clone it and use the images directly — no build step, no dependencies:
+
+```bash
+git clone https://github.com/Active-Learning-Kyle/spidie-avatar.git
+```
+
+Then set any PNG as your profile picture — GitHub, Discord, X, you name it.
 
 ## License
 
